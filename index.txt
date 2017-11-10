@@ -1,6 +1,6 @@
 # shopping list
 1
-2 etwas
+2 etwas mehr
 3
 4 nix
 5
